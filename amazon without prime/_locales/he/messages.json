@@ -1,0 +1,10 @@
+{
+    "extName": {
+        "message": "אמזון ללא פריים",
+        "description": "שם התוסף."
+    },
+    "description":{
+        "message": "מסיר תוצאות פריים מהחיפוש של אמזון",
+        "description": "תיאור התוסף."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "extName": {
+        "message": "Amazon without prime",
+        "description": "Extension title."
+    },
+    "description":{
+        "message": "Filter prime results in Amazon search. (Prime away/ prime filter)",
+        "description": "Extension description."
+    }
+}
